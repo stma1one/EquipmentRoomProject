@@ -1,1 +1,2 @@
 # EquipmentRoomProject
+פרויקט תרגול
