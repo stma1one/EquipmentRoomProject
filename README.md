@@ -1,2 +1,15 @@
 # EquipmentRoomProject
-פרויקט תרגול
+
+פרויקט Console ב־C# לתרגול Properties, בדיקות תקינות, ירושה וטיפול בחריגות.
+
+## מבנה
+- `EquipmentRoomProject.csproj` – פרויקט .NET 8 Console.
+- `Program.cs` – שלד המחלקות והתוכנית הראשית עם TODOs.
+- `Docs/EquipmentRoom_Assignment.pdf` – דף המשימה לתלמידים.
+
+## הרצה
+```bash
+dotnet run
+```
+
+יש להשלים את כל ההערות המסומנות `TODO` בקובץ `Program.cs`, בהתאם להנחיות שבמסמך.
