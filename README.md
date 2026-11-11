@@ -5,7 +5,7 @@
 ## מבנה
 - `EquipmentRoomProject.csproj` – פרויקט .NET 8 Console.
 - `Program.cs` – שלד המחלקות והתוכנית הראשית עם TODOs.
-- `Docs/EquipmentRoom_Assignment.pdf` – דף המשימה לתלמידים.
+- `Docs/EquipmentRoom_Assignment.html` – דף המשימה בעברית (תצוגת RTL).
 
 ## הרצה
 ```bash
